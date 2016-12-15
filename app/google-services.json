@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "266064019239",
+    "firebase_url": "https://denton-writers.firebaseio.com",
+    "project_id": "denton-writers",
+    "storage_bucket": "denton-writers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266064019239:android:13c9c88c00454b7e",
+        "android_client_info": {
+          "package_name": "com.claytonbrant.dentonwriters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266064019239-9bengtbnc6fpaifs727hejtle4o8htep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPm9baCH8WpF9bAUY7bcSkaIEZXEAFEtE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
